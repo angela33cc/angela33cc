@@ -1,15 +1,15 @@
-## Hi there 👋
 
-:computer: **ingeniera industrial en proceso de programadora**
 
-:brain: **apasionada del aprendizaje constante**
+# ¡Bienvenido a la wiki!
 
-:heart: **amor y fe como lema de vida**
+Aquí podrás encontrar todas las secciones para poder implementar tu proyecto de manera rápida y simple.
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/angela33cc/angela33cc)
+## Índice de navegación
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/angela33cc/miPrimerRepo)
+[Explicación del proyecto](./Proyecto)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/angela33cc/miproyectoderepaso)
+[Arquitectura](./Arquitectura)
+
+[Documentación](./Documentación)
 
 
