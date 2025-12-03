@@ -13,3 +13,14 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/angela33cc/miproyectoderepaso)
 
 
+### :zap: Actividad reciente
+
+<!--START\_SECTION:activity-->
+
+<!--END\_SECTION:activity-->
+
+
+
+<!--RECENT\_ACTIVITY:start-->
+
+<!--RECENT\_ACTIVITY:last\_update-->
